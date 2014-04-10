@@ -16,3 +16,7 @@ Route::get('/', function()
 	$data['pagetitle'] = 'WELCOME';
 	return View::make('index', $data);
 });
+
+Route::get('contact-us','BasicController@contact');
+Route::get('gallery','BasicController@gallery');
+Route::get('news','BasicController@news');

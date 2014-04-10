@@ -21,13 +21,13 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="{{asset('assets/image/sliders-1.png')}}" alt="">
+						<img src="{{asset('assets/image/sliders-2.png')}}" alt="">
 						<div class="carousel-caption">
 						
 						</div>
 					</div>
 					<div class="item">
-						<img src="{{asset('assets/image/sliders-1.png')}}" alt="">
+						<img src="{{asset('assets/image/sliders-3.png')}}" alt="">
 						<div class="carousel-caption">
 						
 						</div>
@@ -116,6 +116,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, totam, repudiandae, reiciendis, at aut dignissimos quaerat accusamus culpa ipsa error voluptatem eligendi odit a est eos optio distinctio perspiciatis earum!</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -123,6 +129,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, aperiam, illum, repellendus, non voluptatibus maxime reprehenderit porro error voluptate ex iure dignissimos repudiandae aspernatur sit minus nihil molestiae vero possimus.</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -132,6 +144,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, nulla natus nihil eaque cupiditate sequi necessitatibus. Hic, natus, quisquam, vel maxime quibusdam magni a officia quod debitis eaque sequi consectetur?</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -139,6 +157,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, totam, repudiandae, reiciendis, at aut dignissimos quaerat accusamus culpa ipsa error voluptatem eligendi odit a est eos optio distinctio perspiciatis earum!</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -146,6 +170,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, aperiam, illum, repellendus, non voluptatibus maxime reprehenderit porro error voluptate ex iure dignissimos repudiandae aspernatur sit minus nihil molestiae vero possimus.</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -155,6 +185,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, nulla natus nihil eaque cupiditate sequi necessitatibus. Hic, natus, quisquam, vel maxime quibusdam magni a officia quod debitis eaque sequi consectetur?</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -162,6 +198,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, totam, repudiandae, reiciendis, at aut dignissimos quaerat accusamus culpa ipsa error voluptatem eligendi odit a est eos optio distinctio perspiciatis earum!</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -169,6 +211,12 @@
 						<div class="col-md-4">
 							<div class="thumbnail news">
 								<img src="{{asset('assets/image/about-4.png')}}" alt="">
+								<div class="caption-date">
+									12<br/>Apr
+								</div>
+								<div class="caption-heading">
+									Lorem ipsum dolor sit amet.
+								</div>
 								<div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, aperiam, illum, repellendus, non voluptatibus maxime reprehenderit porro error voluptate ex iure dignissimos repudiandae aspernatur sit minus nihil molestiae vero possimus.</div>
 								<a href="" class="read-more pull-right">Read More</a>
 							</div>
@@ -209,7 +257,7 @@
 						<div class="col-md-6">
 				<div class="media">
 					<img src="{{asset('assets/image/about-1.png')}}" width="100px" height="100px" alt="" class="media-object col-md-4">
-					<div class="media-body col-md-8">
+					<div class="media-body col-md-8 testimonial-body">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, neque, natus, incidunt repellat praesentium corporis veritatis dolorum aperiam consectetur mollitia quibusdam iure cumque harum autem eos vero officiis saepe esse.
 
 						<div class="media-footer">
@@ -222,7 +270,7 @@
 			<div class="col-md-6">
 				<div class="media">
 					<img src="{{asset('assets/image/about-1.png')}}" width="100px" height="100px" alt="" class="media-object col-md-4">
-					<div class="media-body col-md-8">
+					<div class="media-body col-md-8 testimonial-body">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, neque, natus, incidunt repellat praesentium corporis veritatis dolorum aperiam consectetur mollitia quibusdam iure cumque harum autem eos vero officiis saepe esse.
 
 						<div class="media-footer">
@@ -237,7 +285,7 @@
 						<div class="col-md-6">
 				<div class="media">
 					<img src="{{asset('assets/image/about-1.png')}}" width="100px" height="100px" alt="" class="media-object col-md-4">
-					<div class="media-body col-md-8">
+					<div class="media-body col-md-8 testimonial-body">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, neque, natus, incidunt repellat praesentium corporis veritatis dolorum aperiam consectetur mollitia quibusdam iure cumque harum autem eos vero officiis saepe esse.
 
 						<div class="media-footer">
@@ -250,7 +298,7 @@
 			<div class="col-md-6">
 				<div class="media">
 					<img src="{{asset('assets/image/about-1.png')}}" width="100px" height="100px" alt="" class="media-object col-md-4">
-					<div class="media-body col-md-8">
+					<div class="media-body col-md-8 testimonial-body">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, neque, natus, incidunt repellat praesentium corporis veritatis dolorum aperiam consectetur mollitia quibusdam iure cumque harum autem eos vero officiis saepe esse.
 
 						<div class="media-footer">
@@ -265,7 +313,7 @@
 						<div class="col-md-6">
 				<div class="media">
 					<img src="{{asset('assets/image/about-1.png')}}" width="100px" height="100px" alt="" class="media-object col-md-4">
-					<div class="media-body col-md-8">
+					<div class="media-body col-md-8 testimonial-body">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, neque, natus, incidunt repellat praesentium corporis veritatis dolorum aperiam consectetur mollitia quibusdam iure cumque harum autem eos vero officiis saepe esse.
 
 						<div class="media-footer">
@@ -277,8 +325,8 @@
 			</div>
 			<div class="col-md-6">
 				<div class="media">
-					<img src="{{asset('assets/image/about-1.png')}}" width="100px" height="100px" alt="" class="media-object col-md-4">
-					<div class="media-body col-md-8">
+					<img src="{{asset('assets/image/about-1.png')}}" width="100px" height="100px" alt="" class="media-object col-md-4" data-toggle="olightbox" data-target="{{asset('assets/image/sliders-1.png')}}">
+					<div class="media-body col-md-8 testimonial-body">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, neque, natus, incidunt repellat praesentium corporis veritatis dolorum aperiam consectetur mollitia quibusdam iure cumque harum autem eos vero officiis saepe esse.
 
 						<div class="media-footer">
@@ -301,7 +349,8 @@
 				</a>
 			</div>
 		</div>
-	</div>																							
+	</div>
+</div>																						
 @stop
 
 @section('js')

@@ -11,6 +11,7 @@
 
 		@section('header')
 			{{HTML::style(asset('assets/style.min.css'))}}
+			{{HTML::style(asset('assets/css/olightbox.jquery.css'))}}
 			@yield('css')
 		@show
 	</head>

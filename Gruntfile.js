@@ -184,6 +184,9 @@ module.exports = function (grunt) {
 				{expand:true, src:'assets/vendor/bootstrap-sass/dist/js/bootstrap.min.js', dest:'public/assets/js/', flatten:true, filter:'isFile'},
 				{expand:true, src:'assets/vendor/bootstrap-sass/fonts/**', dest:'public/assets/fonts/', flatten:true, filter: 'isFile'},
 				{expand:true, src:'assets/vendor/jquery.ui/dist/**', dest:'public'},
+				{expand:true, src:'assets/vendor/olightbox/olightbox.jquery.js', dest:'public/assets/js/', flatten:true, filter:'isFile'},
+				{expand:true, src:'assets/vendor/olightbox/olightbox.jquery.css', dest:'public/assets/css/', flatten:true, filter:'isFile'},
+
 				]
 			}
 		},

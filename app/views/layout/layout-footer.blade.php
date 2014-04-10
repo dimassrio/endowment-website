@@ -1,4 +1,5 @@
 		{{HTML::script(asset('assets/script.min.js'))}}
+		{{HTML::script(asset('assets/js/olightbox.jquery.js'))}}
 		@yield('js')
 
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
