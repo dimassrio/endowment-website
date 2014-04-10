@@ -10,7 +10,7 @@
 					<li><a href="">Scholarship</a></li>
 					<li><a href="">Students</a></li>
 					<li><a href="">Partners</a></li>
-					<li><a href="">News</a></li>
+					<li><a href="{{url('news')}}">News</a></li>
 					<li><a href="{{url('gallery')}}">Gallery</a></li>
 					<li><a href="">Testimonial</a></li>
 				</ul>
