@@ -1,6 +1,6 @@
 @include('layout.layout-header')
-@include('include.navigation')
 <div class="main-wrapper">
+	@include('include.navigation')
 	@yield('body')
 </div>
 @include('include.footer')
